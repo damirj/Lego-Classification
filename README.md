@@ -35,3 +35,7 @@ Trying to do classification of lego bricks on [Lego dataset from kaggle](https:/
 
 I've made a web app to run inference on my trained models. I was following this [tutorial](https://www.youtube.com/watch?v=EoYfa6mYOG4). The app is basicaly the same from the tutorial with little changes. **Model is not uploaded on github**.
 
+### Android app
+
+I've made a android app to run inference on my trained models. Following mostly tflite documentation. **Model is not uploaded on github**
+
