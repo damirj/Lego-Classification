@@ -6,6 +6,10 @@ Trying to do classification of lego bricks on [Lego dataset from kaggle](https:/
 
 ### Quick description of python scripts:
 
+* **LegoClassification.ipynb:**
+
+   Using this notebook to train my models on Colab. It's constantly changing as I try out different things.
+
 * **ImageInfo.py:**
 
    Basicly just information about image size and pixel value interval
