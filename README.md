@@ -31,5 +31,7 @@ Trying to do classification of lego bricks on [Lego dataset from kaggle](https:/
   I've hand picked 100 real world images and expanded the dataset to 1000 using data augmentation
   
 
+### Local web app
 
+I've made a web app to run inference on my trained models. I was following this [tutorial](https://www.youtube.com/watch?v=EoYfa6mYOG4). The app is basicaly the same from the tutorial with little changes. **Model is not uploaded on github**.
 
