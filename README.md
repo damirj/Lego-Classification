@@ -1,6 +1,8 @@
 # Lego Classification
 Trying to do classification of lego bricks on [Lego dataset from kaggle](https://www.kaggle.com/joosthazelzet/lego-brick-images/kernels).
 
+[Progress on this (wandb)](https://app.wandb.ai/damirj/Lego%20classification/reports/Lego-Classification--Vmlldzo4OTMzMw)
+
 
 ### Quick description of python scripts:
 
